@@ -5,9 +5,9 @@ UI和物品名称已经汉化完毕，科研界面和游戏百科只汉化了一
 汉化包在QQ群：476398288<br>
 ª【新人必读，长期更新】<br>
 双版本 简体中文安装教程，<br>
-https://kdocs.cn/l/clPH7lRdeFNt<br>
+https://kdocs.cn/l/clPH7lRdeFNt<br>
 双版本 保姆级攻略<br>
-https://kdocs.cn/l/cc9XshoyWWo8<br>
+https://kdocs.cn/l/cc9XshoyWWo8<br>
 为了方便新人准确安装，群内汉化包由之前的一个变成了三个，放在不同文件夹。<br>
 其中一个是XCE繁转简，还有两个是X_division汉化包，其中一个附带属性魔改效果，能降低游戏难度、保护玩家血压，请在自行安装完英文版的X division并能够正常运行后再使用我的汉化<br>
 ★我个人用百度网盘上传了一个x division三分卷11G的包，<br>
